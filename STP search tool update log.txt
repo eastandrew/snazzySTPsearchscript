@@ -4,7 +4,7 @@ v6: 04Jan2023
 
 v5: 25Mar2021
 -updated ASTDR CDC URL 
--added OECD HPV link (per Val Adams suggestion), plus text to indicate manual search database 
+-added OECD HPV link, plus text to indicate manual search database 
 
 v4: 18Feb2021
 -added APHC RDEX database URL
@@ -13,7 +13,7 @@ v3: 4Feb2021
 -added Cactus CAS to SMILES converter
 
 v2: 11Dec2021
--added ASTDR (Lindsay Holden edit)
+-added ASTDR
 
 v1: 24Sep2021
 -initial release
