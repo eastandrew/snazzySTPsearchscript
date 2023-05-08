@@ -1,4 +1,7 @@
 #### STP Search Update Log ####
+v7: 08MAY2023
+-updated EPA link for Hazard Comparison Dashboard (see below)
+
 v6: 04Jan2023
 -added Hazard Comparison Dashboard (see https://cfpub.epa.gov/si/si_public_record_report.cfm?Lab=CCTE&dirEntryId=355596)
 
