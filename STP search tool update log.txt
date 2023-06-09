@@ -1,4 +1,8 @@
 #### STP Search Update Log ####
+v8: 09JUN2023
+-updated ECHA to ensure english language landing
+-added OSHA chemicals page (see https://www.osha.gov/chemicaldata/search)
+
 v7: 08MAY2023
 -updated EPA link for Hazard Comparison Dashboard (see below)
 
