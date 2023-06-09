@@ -12,13 +12,14 @@ start chrome "https://cfpub.epa.gov/ecotox/explore.cfm?cas="%CASVar%
 start chrome "https://www.whatsinproducts.com/chemicals/index/Chemical.search:searchKeyword/Chemical.lang_id:1/Chemical.chemical_keyword:"%CASVar%
 start chrome "https://chemview.epa.gov/chemview/?tf=0&ch="%CASVar%
 start chrome "https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value="%CASVar%
-start chrome "https://echa.europa.eu"
+start chrome "https://echa.europa.eu/home"
 start chrome "https://hpvchemicals.oecd.org/UI/Search.aspx"
 start chrome "https://www.cdc.gov/niosh/npg/search.html"
 start chrome "https://discover.dtic.mil/"
 start chrome "https://wwwn.cdc.gov/TSP/substances/ToxSearch.aspx"
 start chrome "https://ephc.amedd.army.mil/RDEX"
 start chrome "https://hcd.rtpnc.epa.gov/#/hazard"
+start chrome "https://www.osha.gov/chemicaldata/search"
 
 
 @echo Script run, websites will open at speed of browser/internet.
