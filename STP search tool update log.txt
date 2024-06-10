@@ -3,6 +3,7 @@
 v9: 10JUN2024
 -updated ECHA to new URL
 -updated ECHA to include CAS in URL
+-updated URL for RDEX
 
 v8: 09JUN2023
 -updated ECHA to ensure english language landing
