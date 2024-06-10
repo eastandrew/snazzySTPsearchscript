@@ -1,4 +1,9 @@
 #### STP Search Update Log ####
+
+v9: 10JUN2024
+-updated ECHA to new URL
+-updated ECHA to include CAS in URL
+
 v8: 09JUN2023
 -updated ECHA to ensure english language landing
 -added OSHA chemicals page (see https://www.osha.gov/chemicaldata/search)
