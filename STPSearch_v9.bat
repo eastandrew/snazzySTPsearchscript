@@ -17,7 +17,7 @@ start chrome "https://hpvchemicals.oecd.org/UI/Search.aspx"
 start chrome "https://www.cdc.gov/niosh/npg/search.html"
 start chrome "https://discover.dtic.mil/"
 start chrome "https://wwwn.cdc.gov/TSP/substances/ToxSearch.aspx"
-start chrome "https://eph.health.mil/RDEXRDEX"
+start chrome "https://eph.health.mil/RDEX"
 start chrome "https://hcd.rtpnc.epa.gov/#/hazard"
 start chrome "https://www.osha.gov/chemicaldata/search"
 
