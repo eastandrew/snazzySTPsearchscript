@@ -12,7 +12,7 @@ start chrome "https://cfpub.epa.gov/ecotox/explore.cfm?cas="%CASVar%
 start chrome "https://www.whatsinproducts.com/chemicals/index/Chemical.search:searchKeyword/Chemical.lang_id:1/Chemical.chemical_keyword:"%CASVar%
 start chrome "https://chemview.epa.gov/chemview/?tf=0&ch="%CASVar%
 start chrome "https://iaspub.epa.gov/sor_internet/registry/substreg/searchandretrieve/advancedsearch/externalSearch.do?p_type=CASNO&p_value="%CASVar%
-start chrome "https://echa.europa.eu/home"
+start chrome "https://chem.echa.europa.eu/substance-search?searchText="%CASVar%
 start chrome "https://hpvchemicals.oecd.org/UI/Search.aspx"
 start chrome "https://www.cdc.gov/niosh/npg/search.html"
 start chrome "https://discover.dtic.mil/"
