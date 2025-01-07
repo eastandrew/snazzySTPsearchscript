@@ -20,10 +20,11 @@ start chrome "https://wwwn.cdc.gov/TSP/substances/ToxSearch.aspx"
 start chrome "https://eph.health.mil/RDEX"
 start chrome "https://hcd.rtpnc.epa.gov/#/hazard"
 start chrome "https://www.osha.gov/chemicaldata/search"
+start chrome "https://episuite.dev/EpiWebSuite/#/"
 
 
 @echo Script run, websites will open at speed of browser/internet.
 @echo CAS number searched is %CASVar%, confirmation is left for the reader.
-@echo ECHA, OECD HPV, NIOSH, DTIC, ATSDR, RDEX, and Hazard Comparison Dashboard require manual entry of search terms.
+@echo OECD HPV, NIOSH, DTIC, ATSDR, RDEX, OSHA, Hazard Comparison Dashboard, and EpiSuite require manual entry of search terms.
 
 TIMEOUT /T 10
