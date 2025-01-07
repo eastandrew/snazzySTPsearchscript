@@ -1,5 +1,8 @@
 #### STP Search Update Log ####
 
+v10: 07JAN2025
+-added US EPA EpiSuite web interface
+
 v9: 10JUN2024
 -updated ECHA to new URL
 -updated ECHA to include CAS in URL
